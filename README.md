@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naing Htet Linn</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
+<p align="left"> <a href="https://twitter.com/naing_95" target="blank"><img src="https://img.shields.io/twitter/follow/naing_95?logo=twitter&style=for-the-badge" alt="naing_95" /></a> </p>
+
 - 📫 How to reach me **naing.work.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
