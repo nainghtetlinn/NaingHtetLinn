@@ -12,9 +12,9 @@
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/nainghtetlinn
-- LinkedIn: https://linkedin.com/in/naingdev
-- Portfolio: https://nainghtetlinn.vercel.app
+- [LinkedIn](https://linkedin.com/in/naingdev)
+- [Portfolio](https://nainghtetlinn.vercel.app)
+- [Email](mailto:naing.work.it@gmail.com)
 
 ## 🛠️ Tech Stack:
 
@@ -28,17 +28,26 @@
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,nextjs,reactnative,electron"/>
 
 ### Libraries:
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=redux,zustand,reactquery,reactrouter,tanstack,chartjs,reacthookform,zod" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=threejs,redux,zustand,reactquery,reactrouter,tanstack,chartjs,reacthookform,zod" />
 
 ### Backend:
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,bun,deno,expressjs,nestjs,spring,graphql" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,bun,deno,expressjs,nestjs,spring,graphql,trpc" />
 
 ### Database:
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,sqlite,mongodb,redis" />
 
 ### DevOps & Tools:
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=docker,githubactions,git,github,linux,yarn,pnpm,apachemaven" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=docker,githubactions,git,github,linux,yarn,pnpm,apachemaven,babel,vite,biome,prettier,eslint,commitlint" />
+
+### Hostings:
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=digitalocean,netlify,vercel,render" />
+
+### Hardware:
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=arduino" />
+
+### AI:
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=tensorflow,ollama,langchain" />
 
 ### Others:
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=figma,canva,blender" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,figma,canva,blender,notion,clickup,drawio" />
 
