@@ -1,5 +1,7 @@
 # Hi 👋, I'm Naing Htet Linn
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nainghtetlinn)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+web+and+app+developer;Self-taught+UI%2FUX+designer;4%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 - 🔭 I'm currently working on Tea Mixer IoT project with AI recipes generation feature
